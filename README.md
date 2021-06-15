@@ -4,8 +4,6 @@
 Ever wanted to buy an item that is a bit more harder to obtained? Now you can do so with our secured website, The Plug Select! We specializes in helping our users to have a aesthetically pleasing website to purchase items.
 
 
-
-
 ![Logo](https://res.cloudinary.com/ddtqwizaf/image/upload/v1623718856/logo_dphoku.png)
 
     
@@ -52,3 +50,11 @@ Link to heroku:
 ## Feedback
 
 If you have any feedback, please reach out to us at mkman751@yahoo.com
+
+| Members      |   |
+|------------:|---|
+| Alan M.     | A |
+| Thomas B    | B |
+| Avi M       | C |
+| Christian L | D |
+| Santos G    | E |
