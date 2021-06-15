@@ -18,7 +18,7 @@ const routes = require('./controllers');
 const sequelize = require('./config/connection');
 const helpers = require('./utils/helpers');
 
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 
 const io = socketio(server);
 
